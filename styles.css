@@ -36,3 +36,19 @@
   flex-direction: inline-block;
   justify-content: space-between;
 }
+.credit-card {
+  background-color: aquamarine;
+  width: 408px;
+  height: 55px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: inline-block;
+  justify-content: center;
+}
+
+img {
+  width: 60px;
+  height: 40px;
+  border-radius: 5px;
+  margin: 10px;
+}
