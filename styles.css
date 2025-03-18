@@ -10,9 +10,10 @@
 }
 .header {
   width: 100%;
+  color: #e50046;
   font-size: 20px;
   font-weight: bold;
-  background-color: #d3d3d3;
+  background-color: #fff0bd;
 }
 .form-group {
   display: flex;
@@ -51,4 +52,8 @@ img {
   height: 40px;
   border-radius: 5px;
   margin: 10px;
+}
+input {
+  background-color: #c7db9c;
+  border: none;
 }
