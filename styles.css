@@ -8,7 +8,7 @@
   margin: 0 auto;
   margin-top: 20px;
 }
-.header {
+.header-footer {
   width: 100%;
   color: #e50046;
   font-size: 20px;
@@ -38,10 +38,10 @@
   justify-content: space-between;
 }
 .credit-card {
-  background-color: aquamarine;
+  background-color: #c7db9c;
   width: 408px;
   height: 55px;
-  border-radius: 8px;
+
   display: flex;
   flex-direction: inline-block;
   justify-content: center;
