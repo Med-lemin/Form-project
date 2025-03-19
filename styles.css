@@ -10,7 +10,6 @@
 .header-footer {
   width: 100%;
   color: black;
-
   background-color: #efefef;
 }
 .form-group {
@@ -25,11 +24,13 @@
 .body {
   margin: 10px;
 }
-.name {
+.name-input,
+.adress-input {
   display: flex;
   flex-direction: inline-block;
   justify-content: space-between;
 }
+
 .form {
   display: flex;
   flex-direction: inline-block;
@@ -80,15 +81,25 @@ button {
   color: white;
   font-weight: bold;
   margin: 5px;
+  font-size: large;
+  font-weight: normal;
 }
 .reset {
   background-color: grey;
   color: white;
-  font-weight: bold;
+  font-size: large;
+  font-weight: normal;
   margin: 5px;
 }
 h6 {
   font-size: 18px;
   font-weight: bold;
   margin: 5px;
+}
+.dollar-input {
+  display: flex;
+  align-items: center;
+}
+.dollar {
+  margin-right: 5px;
 }
