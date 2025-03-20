@@ -61,10 +61,7 @@ input {
   margin: 17px;
   padding: 10px;
 }
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-}
+
 .footer {
   display: flex;
   justify-content: end;

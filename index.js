@@ -10,6 +10,3 @@ window.onload = function () {
     });
   });
 };
-
-let name = prompt("Enter your name", "John Doe");
-console.log(name);
