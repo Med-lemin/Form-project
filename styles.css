@@ -98,3 +98,7 @@ h6 {
 .dollar {
   margin-right: 5px;
 }
+header {
+  display: flex;
+  justify-content: center;
+}
